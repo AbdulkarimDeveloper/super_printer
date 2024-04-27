@@ -184,9 +184,13 @@ Future<void> _onPrintingResponse(PrintingStatus result) async {
 
 
 *Useful packages you can use with our package:*
+
 [screenshot](https://pub.dev/packages/screenshot/)
+
 [permission_handler](https://pub.dev/packages/permission_handler/)
+
 [bluetooth_connector](https://pub.dev/packages/bluetooth_connector)
+
 [flutter_blue_plus](https://pub.dev/packages/flutter_blue_plus/)
 
 
