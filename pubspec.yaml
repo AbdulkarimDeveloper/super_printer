@@ -1,0 +1,28 @@
+name: super_printer
+description: "You can easily print your receipts with APEX/HPRT printers, uses native code to implement it."
+version: 1.0.0
+homepage: https://github.com/AbdulkarimDeveloper/super_printer
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.3.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  plugin_platform_interface: ^2.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.aljazary.super_printer
+        pluginClass: SuperPrinterPlugin
+      ios:
+        package: com.aljazary.super_printer
+        pluginClass: SuperPrinterPlugin
