@@ -7,14 +7,12 @@ Using super_printer -> high quality app
 **Thank you Hussein Ibrahem for your hard efforts.**
 
 [![pub](https://img.shields.io/pub/v/super_printer?color=blue&logo=flutter&logoColor=blue&style=flat-square)](https://pub.dev/packages/super_printer/install)
-[![license](https://img.shields.io/github/license/ABDULKARIMALBAIK/super_printer?color=yellow&logo=github&style=flat-square)](https://pub.dev/packages/super_printer/install)
-[![repo_size](https://img.shields.io/github/languages/code-size/ABDULKARIMALBAIK/super_printer?color=green&label=repo_size&logo=github&style=flat-square)](https://pub.dev/packages/super_printer/install)
 
 
 <div align="center">
-<img src="https://github.com/ABDULKARIMALBAIK/super_printer/raw/main/screenshots/example1.jpg" width="30%" height="30%" alt="photo1"/>
-<img src="https://github.com/ABDULKARIMALBAIK/super_printer/raw/main/screenshots/example2.jpg" width="30%" height="30%" alt="photo2"/>
-<img src="https://github.com/ABDULKARIMALBAIK/super_printer/raw/main/screenshots/example3.jpg" width="30%" height="30%" alt="photo3"/>
+<img src="https://github.com/AbdulkarimDeveloper/super_printer/raw/main/screenshots/example1.jpg" width="30%" height="30%" alt="photo1"/>
+<img src="https://github.com/AbdulkarimDeveloper/super_printer/raw/main/screenshots/example2.jpg" width="30%" height="30%" alt="photo2"/>
+<img src="https://github.com/AbdulkarimDeveloper/super_printer/raw/main/screenshots/example3.jpg" width="30%" height="30%" alt="photo3"/>
 </div>
 
 
