@@ -103,6 +103,13 @@ You need to add those permissions in `ios/Runner/info.plist`:
 <string>To Select desired printer to print a receipt</string>
 ```
 
+If you are working on ios simulator , maybe face an error, to fix it just do that in your project:
+
+Open xcode then go to `Build Settings` tab and inside search box tap *arm* you will find `Exclude Architecture` section
+
+then `Debug` -> `any ios simulator SDK` and add this two words `arm7` and `arm64`
+
+
 > Use this line `WidgetsFlutterBinding.ensureInitialized();` before runApp(...);
 
 
