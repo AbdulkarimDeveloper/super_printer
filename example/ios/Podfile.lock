@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - integration_test (0.0.1):
+    - Flutter
+  - PrinterSDK (1.4.3)
+  - super_printer (1.0.0):
+    - Flutter
+    - PrinterSDK
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - super_printer (from `.symlinks/plugins/super_printer/ios`)
+
+SPEC REPOS:
+  trunk:
+    - PrinterSDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  super_printer:
+    :path: ".symlinks/plugins/super_printer/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  integration_test: 13825b8a9334a850581300559b8839134b124670
+  PrinterSDK: 96046fd1e8d5276922890634e46b90a313a712ca
+  super_printer: 91f8a78185f0a32f8f8ef45048a61dba483409c4
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.14.3
