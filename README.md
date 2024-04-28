@@ -116,7 +116,7 @@ then `Debug` -> `any ios simulator SDK` and add this two words `arm7` and `arm64
 
 # Usage
 
-You can simply use this plugin bt one method :
+You can simply use this plugin by one method :
 ```
 //Convert the widget you want to print to bytes by screenshot package
 Uint8List data = await controller.captureFromWidget(
