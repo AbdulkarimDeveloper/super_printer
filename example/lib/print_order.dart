@@ -148,7 +148,7 @@ class _PrintOrderWidgetState extends State<PrintOrderWidget> {
 }
 
 class PrintHeader extends StatelessWidget {
-  const PrintHeader({Key? key, required this.style}) : super(key: key);
+  const PrintHeader({super.key, required this.style});
 
   final TextStyle style;
 
