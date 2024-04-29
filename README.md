@@ -4,7 +4,7 @@ Amazing plugin helps you to print any receipt you want with (HPRT/APEX) printers
 
 Using super_printer -> high quality app
 
-**Thank you Hussein Ibrahem for your hard efforts.**
+**Thank you Hussen Ibrahim for your hard efforts.**
 
 [![pub](https://img.shields.io/pub/v/super_printer?color=blue&logo=flutter&logoColor=blue&style=flat-square)](https://pub.dev/packages/super_printer/install)
 
