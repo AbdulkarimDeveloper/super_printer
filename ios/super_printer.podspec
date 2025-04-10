@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'super_printer'
-  s.version          = '1.0.0'
+  s.version          = '2.0.0'
   s.summary          = 'You can easily print your receipts with APEX/HPRT printers, uses native code to implement it.'
   s.description      = <<-DESC
 A new Flutter plugin project.

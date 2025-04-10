@@ -1,6 +1,6 @@
 name: super_printer
 description: "You can easily print your receipts with APEX/HPRT printers, uses native code to implement it."
-version: 1.0.0
+version: 2.0.0
 homepage: https://github.com/AbdulkarimDeveloper/super_printer
 
 environment:
